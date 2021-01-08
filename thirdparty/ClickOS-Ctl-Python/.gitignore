@@ -1,0 +1,13 @@
+.vscode
+*.swp
+*.pyc
+dist/
+*.egg-info
+
+# Ignore Previous Work
+old/
+*.cc
+*.hh 
+
+# Other
+clickos/
